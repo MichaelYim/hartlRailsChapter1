@@ -1,0 +1,1 @@
+Chapter1::Application.config.secret_key_base = "You must set config.secret_key_base in your app's config."
